@@ -1,0 +1,10 @@
+StartChar: Ugrave
+Encoding: 217 217 223
+Width: 1503
+Flags: W
+LayerCount: 2
+Fore
+Refer: 45 85 N 1 0 0 1 0 0 3
+Refer: 113 96 N 1 0 0 1 152 328 2
+Kerns2: 69 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 12 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -36 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

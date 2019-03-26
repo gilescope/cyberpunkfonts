@@ -1,0 +1,15 @@
+StartChar: hyphen
+Encoding: 45 45 11
+Width: 1503
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1244 600 m 5,0,-1
+ 306 600 l 5,1,-1
+ 306 834 l 5,2,-1
+ 1244 834 l 5,3,-1
+ 1244 600 l 5,0,-1
+EndSplineSet
+Kerns2: 20 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -32 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

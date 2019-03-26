@@ -1,0 +1,20 @@
+StartChar: equal
+Encoding: 61 61 23
+Width: 1499
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1504 834 m 5,0,-1
+ -4 834 l 1,1,-1
+ -4 1069 l 1,2,-1
+ 1504 1069 l 5,3,-1
+ 1504 834 l 5,0,-1
+1504 365 m 5,4,-1
+ -4 365 l 1,5,-1
+ -4 600 l 1,6,-1
+ 1504 600 l 5,7,-1
+ 1504 365 l 5,4,-1
+EndSplineSet
+Kerns2: 14 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

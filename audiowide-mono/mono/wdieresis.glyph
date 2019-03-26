@@ -1,0 +1,10 @@
+StartChar: wdieresis
+Encoding: 7813 7813 358
+Width: 1501
+Flags: W
+LayerCount: 2
+Fore
+Refer: 76 119 N 1 0 0 1 0 0 3
+Refer: 115 168 N 1 0 0 1 539 0 2
+Kerns2: 112 -69 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 111 -69 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 12 -82 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 3 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

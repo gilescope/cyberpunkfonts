@@ -1,0 +1,10 @@
+StartChar: nacute
+Encoding: 324 324 332
+Width: 1498
+Flags: W
+LayerCount: 2
+Fore
+Refer: 67 110 N 1 0 0 1 0 0 3
+Refer: 114 180 N 1 0 0 1 279 0 2
+Kerns2: 149 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 135 -18 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 133 -18 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 110 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 109 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 108 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 107 -9 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 52 -66 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 24 -45 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 9 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

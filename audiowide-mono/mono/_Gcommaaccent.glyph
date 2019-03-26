@@ -1,0 +1,10 @@
+StartChar: Gcommaaccent
+Encoding: 290 290 253
+Width: 1497
+Flags: W
+LayerCount: 2
+Fore
+Refer: 31 71 N 1 0 0 1 0 0 3
+Refer: 230 806 N 1 0 0 1 666 0 2
+Kerns2: 8 -34 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

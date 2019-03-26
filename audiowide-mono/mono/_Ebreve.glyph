@@ -1,0 +1,10 @@
+StartChar: Ebreve
+Encoding: 276 276 246
+Width: 1499
+Flags: W
+LayerCount: 2
+Fore
+Refer: 29 69 N 1 0 0 1 0 0 3
+Refer: 104 728 N 1 0 0 1 244 350 2
+Kerns2: 154 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 153 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 147 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 69 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 66 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 41 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

@@ -1,0 +1,14 @@
+StartChar: underscore
+Encoding: 95 95 139
+Width: 1506
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1359 -352 m 5,0,-1
+ 126 -352 l 1,1,-1
+ 126 -119 l 1,2,-1
+ 1359 -119 l 5,3,-1
+ 1359 -352 l 5,0,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,10 @@
+StartChar: Obreve
+Encoding: 334 334 273
+Width: 1504
+Flags: W
+LayerCount: 2
+Fore
+Refer: 39 79 N 1 0 0 1 0 0 3
+Refer: 104 728 N 1 0 0 1 309 350 2
+Kerns2: 149 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 112 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 111 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 82 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 69 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 53 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 52 -39 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 24 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 20 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 12 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -66 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

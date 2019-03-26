@@ -1,0 +1,16 @@
+StartChar: circumflex
+Encoding: 710 710 98
+Width: 1141
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+919 1159 m 1,0,-1
+ 571 1339 l 1,1,-1
+ 223 1159 l 1,2,-1
+ 102 1327 l 1,3,-1
+ 571 1593 l 1,4,-1
+ 1040 1327 l 1,5,-1
+ 919 1159 l 1,0,-1
+EndSplineSet
+EndChar

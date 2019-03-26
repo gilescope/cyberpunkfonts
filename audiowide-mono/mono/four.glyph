@@ -1,0 +1,25 @@
+StartChar: four
+Encoding: 52 52 17
+Width: 1506
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1385 0 m 5,0,-1
+ 1123 0 l 5,1,-1
+ 1123 586 l 5,2,-1
+ 239 586 l 2,3,4
+ 211 586 211 586 187 596.5 c 128,-1,5
+ 163 607 163 607 145.5 624.5 c 128,-1,6
+ 128 642 128 642 118 666 c 128,-1,7
+ 108 690 108 690 108 717 c 2,8,-1
+ 108 1434 l 1,9,-1
+ 368 1434 l 1,10,-1
+ 368 848 l 1,11,-1
+ 1123 848 l 5,12,-1
+ 1123 1434 l 5,13,-1
+ 1385 1434 l 5,14,-1
+ 1385 0 l 5,0,-1
+EndSplineSet
+Kerns2: 8 -29 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

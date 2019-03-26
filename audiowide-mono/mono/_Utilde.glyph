@@ -1,0 +1,10 @@
+StartChar: Utilde
+Encoding: 360 360 284
+Width: 1503
+Flags: W
+LayerCount: 2
+Fore
+Refer: 45 85 N 1 0 0 1 0 0 3
+Refer: 106 732 N 1 0 0 1 283 350 2
+Kerns2: 69 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 12 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -36 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

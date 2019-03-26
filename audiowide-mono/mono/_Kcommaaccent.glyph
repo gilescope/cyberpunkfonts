@@ -1,0 +1,10 @@
+StartChar: Kcommaaccent
+Encoding: 310 310 263
+Width: 1507
+Flags: W
+LayerCount: 2
+Fore
+Refer: 35 75 N 1 0 0 1 0 0 3
+Refer: 230 806 N 1 0 0 1 553 0 2
+Kerns2: 155 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 154 -53 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 153 -53 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 151 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 149 12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 147 -52 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 109 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 107 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 82 10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 53 11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 52 6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 41 -45 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 24 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 20 13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 19 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 13 -36 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 12 5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 9 -27 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -18 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 3 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

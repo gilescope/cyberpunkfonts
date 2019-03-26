@@ -1,0 +1,10 @@
+StartChar: cdotaccent
+Encoding: 267 267 305
+Width: 1499
+Flags: W
+LayerCount: 2
+Fore
+Refer: 56 99 N 1 0 0 1 0 0 3
+Refer: 120 729 N 1 0 0 1 96 0 2
+Kerns2: 155 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 151 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 149 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 52 -36 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

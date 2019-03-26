@@ -1,0 +1,10 @@
+StartChar: hcircumflex
+Encoding: 293 293 318
+Width: 1500
+Flags: W
+LayerCount: 2
+Fore
+Refer: 61 104 N 1 0 0 1 0 0 3
+Refer: 98 710 N 1 0 0 1 313 0 2
+Kerns2: 149 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 135 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 133 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 52 -62 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 24 -37 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

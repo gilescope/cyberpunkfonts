@@ -1,0 +1,19 @@
+StartChar: one
+Encoding: 49 49 14
+Width: 1500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1057 0 m 5,0,-1
+ 796 0 l 5,1,-1
+ 796 1174 l 5,2,-1
+ 561 1174 l 5,3,-1
+ 561 1434 l 5,4,-1
+ 1057 1434 l 5,5,-1
+ 1057 0 l 5,0,-1
+EndSplineSet
+Kerns2: 8 -29 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Substitution2: "'sups' Superscript in Latin lookup 1 subtable" onesuperior
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" onesuperior
+EndChar

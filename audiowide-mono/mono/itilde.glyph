@@ -1,0 +1,10 @@
+StartChar: itilde
+Encoding: 297 297 320
+Width: 513
+Flags: W
+LayerCount: 2
+Fore
+Refer: 159 305 N 1 0 0 1 0 0 3
+Refer: 106 732 N 1 0 0 1 -312 0 2
+Kerns2: 8 -18 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

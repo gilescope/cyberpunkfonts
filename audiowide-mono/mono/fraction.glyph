@@ -1,0 +1,15 @@
+StartChar: fraction
+Encoding: 8260 8260 157
+Width: 1043
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1005 1303 m 1,0,-1
+ 268 12 l 1,1,-1
+ 28 12 l 1,2,-1
+ 765 1303 l 1,3,-1
+ 1005 1303 l 1,0,-1
+EndSplineSet
+Kerns2: 21 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 19 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 15 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 13 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

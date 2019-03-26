@@ -1,0 +1,10 @@
+StartChar: Idieresis
+Encoding: 207 207 216
+Width: 1502
+Flags: W
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 3
+Refer: 115 168 N 1 0 0 1 -286 410 2
+Kerns2: 69 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -32 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

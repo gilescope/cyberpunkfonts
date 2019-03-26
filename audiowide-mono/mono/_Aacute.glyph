@@ -1,0 +1,10 @@
+StartChar: Aacute
+Encoding: 193 193 211
+Width: 1505
+Flags: W
+LayerCount: 2
+Fore
+Refer: 25 65 N 1 0 0 1 0 0 3
+Refer: 114 180 N 1 0 0 1 467 410 2
+Kerns2: 69 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 52 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar
