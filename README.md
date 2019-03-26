@@ -9,4 +9,4 @@ A monospace adaptation of Brian J. Bonislawsky (Astigmatic One Eye Typographic I
 
 ## Thanks
 
-Many thank go to https://github.com/fontforge/fontforge for providing the ability to create this.
+Many thanks go to https://github.com/fontforge/fontforge for providing the ability to create this.
