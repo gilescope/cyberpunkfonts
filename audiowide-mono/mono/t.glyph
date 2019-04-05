@@ -5,7 +5,7 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1385 821 m 5,0,-1
+1435 821 m 5,0,-1
  811 821 l 1,1,-1
  811 0 l 1,2,-1
  548 0 l 1,3,-1
@@ -16,8 +16,8 @@ SplineSet
  548 1434 l 1,8,-1
  811 1434 l 1,9,-1
  811 1081 l 1,10,-1
- 1385 1081 l 5,11,-1
- 1385 821 l 5,0,-1
+ 1435 1081 l 5,11,-1
+ 1435 821 l 5,0,-1
 EndSplineSet
 Kerns2: 155 -41 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 151 -41 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 149 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 112 -57 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 111 -57 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 82 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 69 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 53 -35 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 52 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 12 -71 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -67 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 3 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar

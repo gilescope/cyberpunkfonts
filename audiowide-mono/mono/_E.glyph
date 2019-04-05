@@ -11,17 +11,17 @@ SplineSet
  1405 263 l 1,3,-1
  1405 1 l 1,0,-1
 1404 -7 m 1025,4,-1
-1135 1151 m 1,5,-1
- -6 1151 l 1,6,-1
- -6 1413 l 1,7,-1
- 1135 1413 l 1,8,-1
- 1135 1151 l 1,5,-1
-1134 1143 m 1025,9,-1
-1019 646 m 1,10,-1
- 208 646 l 1,11,-1
- 208 888 l 1,12,-1
- 1019 888 l 1,13,-1
- 1019 646 l 1,10,-1
+1135 1165 m 1,5,-1
+ -6 1165 l 1,6,-1
+ -6 1427 l 1,7,-1
+ 1135 1427 l 1,8,-1
+ 1135 1165 l 1,5,-1
+1134 1157 m 1025,9,-1
+1009 646 m 1,10,-1
+ 198 646 l 1,11,-1
+ 198 888 l 1,12,-1
+ 1009 888 l 1,13,-1
+ 1009 646 l 1,10,-1
 EndSplineSet
 Kerns2: 154 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 153 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 147 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 69 -6 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 66 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 41 -16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar

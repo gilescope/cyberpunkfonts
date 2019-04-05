@@ -45,6 +45,12 @@ fi
 Other symbols supported:
 ₿
 
+Conditions:
+a - b  
+a + b  
+a && b  
+a || b
+
 ## Thanks
 
 Many thanks go to https://github.com/fontforge/fontforge for providing the ability to create this.
