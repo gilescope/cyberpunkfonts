@@ -6,6 +6,10 @@ Cyberpunk inspired fonts for coding
 A monospace adaptation of Brian J. Bonislawsky (Astigmatic One Eye Typographic Institute)'s regular audiowide font.
 (The original and this adeptation are licensed under the SIL Open Font License)
 
+
+![Audiowide Example](audiowide-mono/Audiowide-Mono.png)
+
+
 ## Websites
 
 If you're inspired to create a cyberpunk website then also check out http://augmented-ui.com/
