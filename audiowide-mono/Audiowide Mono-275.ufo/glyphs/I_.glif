@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="2">
+	<advance width="750"/>
+	<unicode hex="0049"/>
+	<note>
+		I
+  </note>
+	<outline>
+		<contour>
+			<point x="456" y="0" type="line"/>
+			<point x="456" y="538"/>
+			<point x="456" y="717" type="qcurve"/>
+			<point x="359" y="717"/>
+			<point x="327" y="717" type="qcurve"/>
+			<point x="327" y="179"/>
+			<point x="327" y="0" type="qcurve"/>
+			<point x="424" y="0"/>
+			<point x="456" y="0" type="qcurve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-12-14 06:34:09 +0000</string>
+		</dict>
+	</lib>
+</glyph>

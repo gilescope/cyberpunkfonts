@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="2">
+	<advance width="750"/>
+	<unicode hex="00B1"/>
+	<note>
+		plusminus
+  </note>
+	<outline>
+		<contour>
+			<point x="532" y="300" type="line"/>
+			<point x="532" y="388"/>
+			<point x="532" y="417" type="qcurve"/>
+			<point x="400" y="417"/>
+			<point x="356" y="417" type="qcurve"/>
+			<point x="356" y="503"/>
+			<point x="356" y="532" type="qcurve"/>
+			<point x="269" y="532"/>
+			<point x="240" y="532" type="qcurve"/>
+			<point x="240" y="446"/>
+			<point x="240" y="417" type="qcurve"/>
+			<point x="107" y="417"/>
+			<point x="63" y="417" type="qcurve"/>
+			<point x="63" y="329"/>
+			<point x="63" y="300" type="qcurve"/>
+			<point x="195" y="300"/>
+			<point x="240" y="300" type="qcurve"/>
+			<point x="240" y="214"/>
+			<point x="240" y="185" type="qcurve"/>
+			<point x="327" y="185"/>
+			<point x="356" y="185" type="qcurve"/>
+			<point x="356" y="271"/>
+			<point x="356" y="300" type="qcurve"/>
+			<point x="488" y="300"/>
+			<point x="532" y="300" type="qcurve"/>
+		</contour>
+		<contour>
+			<point x="532" y="0" type="line"/>
+			<point x="532" y="87"/>
+			<point x="532" y="116" type="qcurve"/>
+			<point x="180" y="116"/>
+			<point x="63" y="116" type="qcurve"/>
+			<point x="63" y="29"/>
+			<point x="63" y="0" type="qcurve"/>
+			<point x="415" y="0"/>
+			<point x="532" y="0" type="qcurve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-12-14 06:46:36 +0000</string>
+		</dict>
+	</lib>
+</glyph>

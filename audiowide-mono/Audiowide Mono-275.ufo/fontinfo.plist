@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1013</integer>
+	<key>capHeight</key>
+	<integer>1013</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved
+Font Name "Audiowide"
+
+Monospaced by Giles Cope for use with programming.</string>
+	<key>descender</key>
+	<integer>-292</integer>
+	<key>familyName</key>
+	<string>Audiowide</string>
+	<key>openTypeHeadCreated</key>
+	<string>2019/10/10 05:32:49</string>
+	<key>openTypeHheaAscender</key>
+	<integer>1013</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-292</integer>
+	<key>openTypeNameDesigner</key>
+	<string>Astigmatic (AOETI)</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.astigmatic.com/</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.astigmatic.com/</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Audiowide</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Mono</string>
+	<key>openTypeOS2Type</key>
+	<array/>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1013</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-292</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>Bird</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1013</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>292</integer>
+	<key>postscriptBlueValues</key>
+	<array/>
+	<key>postscriptFontName</key>
+	<string>Audiowide-Mono</string>
+	<key>postscriptFullName</key>
+	<string>Audiowide Mono</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>styleMapFamilyName</key>
+	<string>Audiowide Mono</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Mono</string>
+	<key>trademark</key>
+	<string>Audiowide is a trademark of Astigmatic.</string>
+	<key>unitsPerEm</key>
+	<integer>1024</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>540</integer>
+</dict>
+</plist>

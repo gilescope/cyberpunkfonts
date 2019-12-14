@@ -1,9 +1,0 @@
-StartChar: Dcroat
-Encoding: 272 272 244
-Width: 1920
-Flags: W
-LayerCount: 2
-Fore
-Refer: 224 208 N 1 0 0 1 0 0 3
-Kerns2: 149 -18 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 112 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 111 -19 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 82 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 69 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 53 -41 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 52 -42 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 24 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 20 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 12 -43 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -68 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
-EndChar

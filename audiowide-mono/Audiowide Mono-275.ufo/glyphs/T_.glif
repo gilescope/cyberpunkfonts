@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="2">
+	<advance width="750"/>
+	<unicode hex="0054"/>
+	<note>
+		T
+  </note>
+	<outline>
+		<contour>
+			<point x="724" y="587" type="line"/>
+			<point x="724" y="684"/>
+			<point x="724" y="717" type="qcurve"/>
+			<point x="196" y="717"/>
+			<point x="20" y="717" type="qcurve"/>
+			<point x="20" y="620"/>
+			<point x="20" y="587" type="qcurve"/>
+			<point x="235" y="587"/>
+			<point x="307" y="587" type="qcurve"/>
+			<point x="307" y="147"/>
+			<point x="307" y="0" type="qcurve"/>
+			<point x="404" y="0"/>
+			<point x="437" y="0" type="qcurve"/>
+			<point x="437" y="440"/>
+			<point x="437" y="587" type="qcurve"/>
+			<point x="652" y="587"/>
+			<point x="724" y="587" type="qcurve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-12-14 06:35:52 +0000</string>
+		</dict>
+	</lib>
+</glyph>

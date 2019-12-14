@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+	<advance width="750"/>
+	<unicode hex="00A1"/>
+	<note>
+		exclamdown
+  </note>
+	<outline>
+		<contour>
+			<point x="83" y="337" type="line"/>
+			<point x="60" y="-69"/>
+			<point x="52" y="-204" type="qcurve"/>
+			<point x="165" y="-204"/>
+			<point x="203" y="-204" type="qcurve"/>
+			<point x="179" y="202"/>
+			<point x="172" y="337" type="qcurve"/>
+			<point x="105" y="337"/>
+			<point x="83" y="337" type="qcurve"/>
+		</contour>
+		<contour>
+			<point x="62" y="448" type="line"/>
+			<point x="62" y="435"/>
+			<point x="67" y="423" type="qcurve" smooth="yes"/>
+			<point x="72" y="411"/>
+			<point x="81" y="402" type="qcurve" smooth="yes"/>
+			<point x="90" y="393"/>
+			<point x="102" y="388" type="qcurve" smooth="yes"/>
+			<point x="113" y="383"/>
+			<point x="127" y="383" type="qcurve" smooth="yes"/>
+			<point x="140" y="383"/>
+			<point x="152" y="388" type="qcurve" smooth="yes"/>
+			<point x="164" y="393"/>
+			<point x="172" y="402" type="qcurve" smooth="yes"/>
+			<point x="181" y="411"/>
+			<point x="186" y="423" type="qcurve" smooth="yes"/>
+			<point x="191" y="435"/>
+			<point x="191" y="448" type="qcurve" smooth="yes"/>
+			<point x="191" y="461"/>
+			<point x="186" y="473" type="qcurve" smooth="yes"/>
+			<point x="181" y="484"/>
+			<point x="172" y="493" type="qcurve" smooth="yes"/>
+			<point x="164" y="502"/>
+			<point x="152" y="507" type="qcurve" smooth="yes"/>
+			<point x="140" y="512"/>
+			<point x="127" y="512" type="qcurve" smooth="yes"/>
+			<point x="113" y="512"/>
+			<point x="102" y="507" type="qcurve" smooth="yes"/>
+			<point x="90" y="502"/>
+			<point x="81" y="493" type="qcurve" smooth="yes"/>
+			<point x="72" y="484"/>
+			<point x="67" y="473" type="qcurve" smooth="yes"/>
+			<point x="62" y="461"/>
+			<point x="62" y="448" type="qcurve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-12-14 06:43:16 +0000</string>
+		</dict>
+	</lib>
+</glyph>

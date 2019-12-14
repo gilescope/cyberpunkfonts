@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00ad" format="2">
+	<advance width="750"/>
+	<unicode hex="00AD"/>
+	<note>
+		uni00ad
+  </note>
+	<outline>
+		<contour>
+			<point x="527" y="300" type="line"/>
+			<point x="527" y="388"/>
+			<point x="527" y="417" type="qcurve"/>
+			<point x="175" y="417"/>
+			<point x="58" y="417" type="qcurve"/>
+			<point x="58" y="329"/>
+			<point x="58" y="300" type="qcurve"/>
+			<point x="410" y="300"/>
+			<point x="527" y="300" type="qcurve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-12-14 06:46:04 +0000</string>
+		</dict>
+	</lib>
+</glyph>

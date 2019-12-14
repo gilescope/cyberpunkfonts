@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="2">
+	<advance width="750"/>
+	<unicode hex="005C"/>
+	<note>
+		backslash
+  </note>
+	<outline>
+		<contour>
+			<point x="692" y="0" type="line"/>
+			<point x="353" y="538"/>
+			<point x="240" y="717" type="qcurve"/>
+			<point x="135" y="717"/>
+			<point x="100" y="717" type="qcurve"/>
+			<point x="440" y="179"/>
+			<point x="553" y="0" type="qcurve"/>
+			<point x="658" y="0"/>
+			<point x="692" y="0" type="qcurve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-12-14 06:36:49 +0000</string>
+		</dict>
+	</lib>
+</glyph>
