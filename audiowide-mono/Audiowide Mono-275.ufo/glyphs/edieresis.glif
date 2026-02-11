@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <glyph name="edieresis" format="2">
   <advance width="750" />
   <unicode hex="00EB" />
@@ -8,7 +8,6 @@
   <outline>
     <contour>
       <point x="677" y="361" type="qcurve" />
-      <point x="677" y="361" type="line" />
       <point x="677" y="335" />
       <point x="668" y="303" type="qcurve" smooth="yes" />
       <point x="659" y="272" />
@@ -79,7 +78,6 @@
     </contour>
     <contour>
       <point x="295" y="688" type="qcurve" />
-      <point x="295" y="688" type="line" />
       <point x="295" y="675" />
       <point x="289" y="663" type="qcurve" smooth="yes" />
       <point x="284" y="651" />
@@ -114,7 +112,6 @@
     </contour>
     <contour>
       <point x="526" y="688" type="qcurve" />
-      <point x="526" y="688" type="line" />
       <point x="526" y="675" />
       <point x="521" y="663" type="qcurve" smooth="yes" />
       <point x="516" y="651" />

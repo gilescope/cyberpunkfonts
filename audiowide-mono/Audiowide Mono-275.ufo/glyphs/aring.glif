@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <glyph name="aring" format="2">
   <advance width="750" />
   <unicode hex="00E5" />
@@ -8,7 +8,6 @@
   <outline>
     <contour>
       <point x="679" y="179" type="qcurve" />
-      <point x="679" y="179" type="line" />
       <point x="679" y="152" />
       <point x="670" y="121" type="qcurve" smooth="yes" />
       <point x="660" y="89" />
@@ -79,7 +78,6 @@
     </contour>
     <contour>
       <point x="177" y="708" type="qcurve" />
-      <point x="177" y="708" type="line" />
       <point x="177" y="732" />
       <point x="188" y="754" type="qcurve" smooth="yes" />
       <point x="199" y="776" />
@@ -114,7 +112,6 @@
     </contour>
     <contour>
       <point x="273" y="708" type="qcurve" />
-      <point x="273" y="708" type="line" />
       <point x="273" y="687" />
       <point x="286" y="673" type="qcurve" smooth="yes" />
       <point x="299" y="659" />

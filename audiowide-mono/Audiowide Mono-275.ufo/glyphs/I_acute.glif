@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <glyph name="Iacute" format="2">
   <advance width="750" />
   <unicode hex="00CD" />
@@ -8,7 +8,6 @@
   <outline>
     <contour>
       <point x="456" y="0" type="qcurve" />
-      <point x="456" y="0" type="line" />
       <point x="424" y="0" />
       <point x="327" y="0" type="qcurve" />
       <point x="327" y="179" />
@@ -19,7 +18,6 @@
     </contour>
     <contour>
       <point x="403" y="878" type="qcurve" />
-      <point x="403" y="878" type="line" />
       <point x="337" y="855" />
       <point x="141" y="784" type="qcurve" />
       <point x="133" y="803" />

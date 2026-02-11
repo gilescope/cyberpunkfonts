@@ -22,6 +22,14 @@ fix-directions:
     COPY scripts/fix_directions.py .
     RUN python3 fix_directions.py
 
+fix-all-directions:
+    FROM +fontforge-base
+    COPY scripts/fix_all_directions.py .
+    RUN python3 fix_all_directions.py
+    FOR glif IN $(ls /out/*.glif 2>/dev/null)
+        SAVE ARTIFACT $glif AS LOCAL audiowide-mono/Audiowide\ Mono-275.ufo/glyphs/$(basename $glif)
+    END
+
 check-unknown-refs:
     FROM +fontforge-base
     COPY scripts/check_unknown_refs.py .

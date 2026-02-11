@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <glyph name="Igrave" format="2">
   <advance width="750" />
   <unicode hex="00CC" />
@@ -8,7 +8,6 @@
   <outline>
     <contour>
       <point x="456" y="0" type="qcurve" />
-      <point x="456" y="0" type="line" />
       <point x="424" y="0" />
       <point x="327" y="0" type="qcurve" />
       <point x="327" y="179" />
@@ -19,7 +18,6 @@
     </contour>
     <contour>
       <point x="-4" y="1000" type="qcurve" />
-      <point x="-4" y="1000" type="line" />
       <point x="57" y="965" />
       <point x="237" y="860" type="qcurve" />
       <point x="229" y="841" />
