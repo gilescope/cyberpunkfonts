@@ -41,6 +41,7 @@ if still_wrong:
     font4.generate("Audiowide-Mono-Latest.ttf")
 else:
     import os
+
     os.rename("pass1.ttf", "Audiowide-Mono-Latest.ttf")
 
 font.layers[1].is_quadratic = True
