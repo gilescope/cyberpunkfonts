@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright" format="2">
-	<advance width="447"/>
-	<unicode hex="203A"/>
-	<note>
+  <advance width="750"/>
+  <unicode hex="203A"/>
+  <note>
 		guilsinglright
   </note>
-	<outline>
-		<contour>
-			<point x="211" y="476" type="line"/>
-			<point x="86" y="476"/>
-			<point x="44" y="476" type="qcurve"/>
-			<point x="219" y="320"/>
-			<point x="277" y="268" type="qcurve"/>
-			<point x="103" y="116"/>
-			<point x="45" y="65" type="qcurve"/>
-			<point x="171" y="65"/>
-			<point x="213" y="65" type="qcurve"/>
-			<point x="334" y="171"/>
-			<point x="394" y="223" type="qcurve" smooth="yes"/>
-			<point x="415" y="241"/>
-			<point x="415" y="268" type="qcurve" smooth="yes"/>
-			<point x="415" y="280"/>
-			<point x="409" y="291" type="qcurve" smooth="yes"/>
-			<point x="404" y="303"/>
-			<point x="395" y="312" type="qcurve" smooth="yes"/>
-			<point x="257" y="435"/>
-			<point x="211" y="476" type="qcurve"/>
-		</contour>
-	</outline>
+  <outline>
+    <contour>
+      <point x="363" y="476" type="qcurve"/>
+      <point x="363" y="476" type="line"/>
+      <point x="409" y="435"/>
+      <point x="547" y="312" type="qcurve" smooth="yes"/>
+      <point x="556" y="303"/>
+      <point x="561" y="291" type="qcurve" smooth="yes"/>
+      <point x="567" y="280"/>
+      <point x="567" y="268" type="qcurve" smooth="yes"/>
+      <point x="567" y="241"/>
+      <point x="546" y="223" type="qcurve" smooth="yes"/>
+      <point x="486" y="171"/>
+      <point x="365" y="65" type="qcurve"/>
+      <point x="323" y="65"/>
+      <point x="197" y="65" type="qcurve"/>
+      <point x="255" y="116"/>
+      <point x="429" y="268" type="qcurve"/>
+      <point x="371" y="320"/>
+      <point x="196" y="476" type="qcurve"/>
+      <point x="238" y="476"/>
+    </contour>
+  </outline>
 </glyph>
