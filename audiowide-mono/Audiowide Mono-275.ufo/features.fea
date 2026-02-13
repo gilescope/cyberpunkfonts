@@ -1,0 +1,47 @@
+
+
+@GDEF_Simple = [\.null \A \AE \Aacute \Acircumflex \Adieresis \Agrave \Aring \Atilde
+	\B \C \CR \Cacute \Ccaron \Ccedilla \D \E \Eacute \Ecircumflex \Edieresis \Egrave
+	\Eth \F \G \Gbreve \H \I \Iacute \Icircumflex \Idieresis \Idotaccent \Igrave \J \K \L
+	\Lslash \M \N \Ntilde \O \OE \Oacute \Ocircumflex \Odieresis \Ograve \Oslash
+	\Otilde \P \Q \R \S \Scaron \Scedilla \T \Thorn \U \Uacute \Ucircumflex \Udieresis
+	\Ugrave \V \W \X \Y \Yacute \Ydieresis \Z \Zcaron \a \aacute \acircumflex \acute
+	\adieresis \ae \agrave \ampersand \approxequal \aring \asciicircum \asciitilde
+	\asterisk \at \atilde \b \backslash \bar \braceleft \braceright \bracketleft
+	\bracketright \breve \brokenbar \bullet \c \cacute \caron \ccaron \ccedilla
+	\cedilla \cent \circumflex \colon \comma \copyright \currency \d \dagger
+	\daggerdbl \dcroat \degree \dieresis \divide \dollar \dotaccent \dotlessi \e
+	\eacute \ecircumflex \edieresis \egrave \eight \ellipsis \emdash \endash \equal
+	\eth \exclam \exclamdown \f \fi \five \fl \florin \four \fraction \g \gbreve
+	\germandbls \grave \greater \guillemotleft \guillemotright \guilsinglleft
+	\guilsinglright \h \hungarumlaut \hyphen \i \iacute \icircumflex \idieresis
+	\igrave \j \k \l \less \logicalnot \lslash \m \macron \minus \mu \multiply \n \nine
+	\nonbreakingspace \ntilde \numbersign \o \oacute \ocircumflex \odieresis \oe
+	\ogonek \ograve \one \onehalf \onequarter \onesuperior \ordfeminine
+	\ordmasculine \oslash \otilde \p \paragraph \parenleft \parenright \partialdiff
+	\percent \period \periodcentered \perthousand \plus \plusminus \q \question
+	\questiondown \quotedbl \quotedblbase \quotedblleft \quotedblright \quoteleft
+	\quoteright \quotesinglbase \quotesingle \r \registered \ring \s \scaron
+	\scedilla \section \semicolon \seven \six \slash \space \sterling \t \thorn \three
+	\threequarters \threesuperior \tilde \trademark \two \twosuperior \u \uacute
+	\ucircumflex \udieresis \ugrave \underscore \uni00ad \uni0100 \uni0101 \uni0102
+	\uni0103 \uni0104 \uni0105 \uni0108 \uni0109 \uni010a \uni010b \uni010e \uni010f
+	\uni0110 \uni0112 \uni0113 \uni0114 \uni0115 \uni0116 \uni0117 \uni0118 \uni0119
+	\uni011a \uni011b \uni011c \uni011d \uni0120 \uni0121 \uni0122 \uni0123 \uni0124
+	\uni0125 \uni0126 \uni0127 \uni0128 \uni0129 \uni012a \uni012b \uni012c \uni012d
+	\uni012e \uni012f \uni0132 \uni0133 \uni0134 \uni0135 \uni0136 \uni0137 \uni0138
+	\uni0139 \uni013a \uni013b \uni013c \uni013d \uni013e \uni013f \uni0140 \uni0143
+	\uni0144 \uni0145 \uni0146 \uni0147 \uni0148 \uni0149 \uni014a \uni014b \uni014c
+	\uni014d \uni014e \uni014f \uni0150 \uni0151 \uni0154 \uni0155 \uni0156 \uni0157
+	\uni0158 \uni0159 \uni015a \uni015b \uni015c \uni015d \uni0162 \uni0163 \uni0164
+	\uni0165 \uni0166 \uni0167 \uni0168 \uni0169 \uni016a \uni016b \uni016c \uni016d
+	\uni016e \uni016f \uni0170 \uni0171 \uni0172 \uni0173 \uni0174 \uni0175 \uni0176
+	\uni0177 \uni0179 \uni017a \uni017b \uni017c \uni01fc \uni01fd \uni01fe \uni01ff
+	\uni0237 \uni0312 \uni0315 \uni0326 \uni1e80 \uni1e81 \uni1e82 \uni1e83 \uni1e84
+	\uni1e85 \uni1ef2 \uni1ef3 \uni20ac \uni20bf \v \w \x \y \yacute \ydieresis \yen \z
+	\zcaron \zero ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
